@@ -1,4 +1,4 @@
-# challenge-git ~DONE~
+# challenge-git "DONE"
 
 # challenge-git
 

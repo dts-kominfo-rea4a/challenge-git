@@ -1,3 +1,3 @@
 $(function(){
-    console.log('halo, namaku adalah Didi Anasfudi')
+    console.log('Halo, namaku adalah Didi Anasfudi')
 })

@@ -1,1 +1,1 @@
-halo, namaku adalah Feri Murdeni
+console.log('halo, namaku adalah Feri Murdeni')

@@ -1,0 +1,1 @@
+halo, namaku adalah Choaz Bone Randa Lembang

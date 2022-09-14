@@ -1,1 +1,1 @@
-halo, namaku adalah farhany
+halo, namaku adalah farhany.

@@ -1,0 +1,1 @@
+alo, namaku adalah Andrya Afgani

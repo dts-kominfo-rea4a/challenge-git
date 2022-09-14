@@ -1,0 +1,1 @@
+halo, nama aku Adhadi Aji Putra

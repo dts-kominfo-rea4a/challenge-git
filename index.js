@@ -1,0 +1,1 @@
+alert('halo, namaku adalah Deni Irawan Nugraha')

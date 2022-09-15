@@ -1,1 +1,1 @@
-halo, namaku adalah Fajar Yogatama
+halo, namaku adalah Fajar Yogatama.

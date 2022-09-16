@@ -1,0 +1,1 @@
+halo, namaku adalah Aldi Rivan Maulana Latief

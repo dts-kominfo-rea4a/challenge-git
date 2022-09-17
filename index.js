@@ -1,0 +1,1 @@
+console.log("hallo, namaku adalah Defrag Muhammad A.D");

@@ -1,0 +1,1 @@
+halo, namaku adalah Abd. Rahman B. Tasrid

@@ -1,0 +1,1 @@
+halo, namaku adalah Aisyah Nurul Hidayah

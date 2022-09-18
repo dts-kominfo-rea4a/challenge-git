@@ -1,1 +1,1 @@
-halo, namaku adalah Adityo Warta Bone
+halo, namaku adalah Adityo Warta Bone.

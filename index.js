@@ -1,0 +1,1 @@
+console.log ("Halo, Nama saya Aditya Pratama Abdul Karim");

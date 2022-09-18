@@ -1,0 +1,1 @@
+let saya = "Halo, Namaku adalah Boby Rizky Permadi, saya adalah peserta Digitalent 2022"
